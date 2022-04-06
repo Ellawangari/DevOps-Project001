@@ -57,8 +57,9 @@ phpinfo();`
        ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/mobaxterm8.PNG)
      - Reloaded my webite on the browser and the php page loaded successfully.
      ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/phppage.PNG)
-     - Finally removed the file as it contained sensitive information using the following command  `sudo rm /var/www/projectlamp/index.php `
-     Reloaded the site to confirm the file was removed successfully.
+     - Finally removed the file as it contained sensitive information using the following command 
+     `sudo rm /var/www/projectlamp/index.php `
+     - Reloaded the site to confirm the file was removed successfully.
         ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/phppage2.PNG)
 
 **
