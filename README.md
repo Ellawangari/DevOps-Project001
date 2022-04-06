@@ -30,8 +30,17 @@ Technology Stack used was **LAMP**( Linux Apache MYSQL PHP)
    - Connected to the AWS instance on Mobaxterm and installed Apache  and runned the following command to verify that apache service in our server.
        `sudo systemctl status apache2`
       ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/mobaxterm3.PNG)
-   - Added another inbound rule  to my AWS instance which was to open port 80 
-
+   - Added another  http inbound rule  to my AWS instance which was to open port 80.
+      ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/aws%204.PNG)
+      
+     **Step 4: Installing MYSQL **
+  - Connected to the AWS instance on Mobaxterm and installed MYSQL  and runned the following command to test if i can log in to MYSQL console.
+   ` sudo apt install mysql-server`
+    ` sudo mysql`
+     ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/mobaxterm4.PNG)
+   -Which was successful and ran the following command to exit MYSQL command.
+      ` mysql> exit`
+  
 
 
 
