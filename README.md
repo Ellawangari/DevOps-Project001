@@ -1,5 +1,5 @@
 # DevOps-Project001
-First project from the guided Darey.io DevOps Engineer Scholarship 
+First project from the guided [title](https://www.darey.io) DevOps Engineer Scholarship 
 
 **Project Implementation**
 Technology Stack used was **LAMP**( Linux Apache MYSQL PHP)
@@ -61,7 +61,7 @@ phpinfo();`
      Reloaded the site to confirm the file was removed successfully.
         ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/phppage2.PNG)
 
+**
+End for DevOps Project 1**
 
-
-End for DevOps Project 1
-To try this project Darey.io have a free trial to which you can practice this project.
+To try this project  [title](https://www.darey.io) have a free trial to which you can practice this project.
