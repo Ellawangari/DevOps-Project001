@@ -40,8 +40,25 @@ Technology Stack used was **LAMP**( Linux Apache MYSQL PHP)
      ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/mobaxterm4.PNG)
    -Which was successful and ran the following command to exit MYSQL command.
       ` mysql> exit`
-  
-
-
+    **Step 4: Installing PHP **
+  - Connected to the AWS instance on Mobaxterm and installed PHP  and runned the following command to check the version installed.
+   ` sudo apt install php libapache2-mod-php php-mysql`  ` php -v`
+       ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/mobaxterm5.PNG)
+  - Created a Virtual host for my website using Apache
+    -Created a directory for projectlamp using the mkdir command
+    -Assigned ownership of the directory to the current system user
+    -Then created and opened a new configuration file in Apache’s sites-available directory and added the followin details.
+     ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/mobaxterm6.PNG)
+    -Enabled PHP on the website by changing the default DirectoryIndex settings on Apache to start with index.php instead of index.html
+      ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/mobaxterm7.PNG)
+    -Created an index.php inside the custom web root folder and opened the file to add the following code.
+     `<?php
+phpinfo();`
+       ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/mobaxterm8.PNG)
+     - Reloaded my webite on the browser and the php page loaded successfully.
+     ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/phppage.PNG)
+     - Finally removed the file as it contained sensitive information using the following command  `sudo rm /var/www/projectlamp/index.php `
+     Reloaded the site to confirm the file was removed successfully.
+        ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/phppage2.PNG)
 
 
