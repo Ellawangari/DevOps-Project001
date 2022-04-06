@@ -11,7 +11,7 @@ Technology Stack used was **LAMP**( Linux Apache MYSQL PHP)
 - Made the download folder as the persistent home directory since that's where my pem file was located.
  ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/mobaxterm1.PNG)
 - Added new inbound rules to connect to the instance using SSH.
- ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/aws4.PNG)
+ ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/aws%204.PNG)
 - Once the inbound rules were all set I was now able to connect to my instance using the SSH on Mobaxterm.
  ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/mobaxterm2.PNG)
  
