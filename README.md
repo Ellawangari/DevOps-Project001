@@ -1,5 +1,5 @@
 # DevOps-Project001
-First project from the guided [title](https://www.darey.io) DevOps Engineer Scholarship 
+First project from the guided [darey.io](https://www.darey.io) DevOps Engineer Scholarship 
 
 **Project Implementation**
 Technology Stack used was **LAMP**( Linux Apache MYSQL PHP)
@@ -64,4 +64,4 @@ phpinfo();`
 **
 End for DevOps Project 1**
 
-To try this project  [title](https://www.darey.io) have a free trial to which you can practice this project.
+To try this project  [darey.io](https://www.darey.io) have a free trial to which you can practice this project.
