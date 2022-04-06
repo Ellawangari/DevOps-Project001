@@ -62,6 +62,6 @@ phpinfo();`
         ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/phppage2.PNG)
 
 **
-End for DevOps Project 1**
+End of DevOps Project 1**
 
 To try this project  [darey.io](https://www.darey.io) have a free trial to which you can practice this project.
