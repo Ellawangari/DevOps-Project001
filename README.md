@@ -27,7 +27,7 @@ Technology Stack used was **LAMP**( Linux Apache MYSQL PHP)
    -Practiced on a lot more commands.
    
    **Step 3: Installing Apache in my AWS instance and updating firewall**
-   - Connected to the AWS instance on Mobaxterm and installed Apache  and runned the following command to verify that apache service in our server.
+   - Connected to the AWS instance on Mobaxterm and installed Apache  and runned the following command to verify that apache is running as a service.
        `sudo systemctl status apache2`
       ![alt text](https://github.com/Ellawangari/DevOps-Project001/blob/main/Images/mobaxterm3.PNG)
    - Added another  http inbound rule  to my AWS instance which was to open port 80.
