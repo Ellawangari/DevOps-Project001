@@ -65,4 +65,4 @@ phpinfo();`
 **
 End of DevOps Project 1**
 
-To try this project  [darey.io](https://www.darey.io) have a free trial to which you can practice this project.
+To try this project  [darey.io](https://www.darey.io) has a free trial to which you can practice this project.
